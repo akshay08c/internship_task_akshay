@@ -1,0 +1,15 @@
+body {
+    background-color: #98c0e7;
+}
+
+quiz-container {
+    border: 1px solid #98c0e7;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #98c0e7;
+}
+
+
+.btn-group-vertical .btn {
+    margin-bottom: 10px;
+}
